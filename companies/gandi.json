@@ -11,6 +11,7 @@
     "phone": "+352 20 30 13 03",
     "fax": "+352 27 44 98 88",
     "email": "dpo@gandi.net",
+    "webform": "https://help.gandi.net/en/contact/my-rights",
     "web": "https://www.gandi.net",
     "sources": [
         "https://www.gandi.net/en/contracts/terms-of-service",
@@ -29,9 +30,6 @@
             "desc": "Username",
             "type": "input"
         }
-    ],
-    "comments": [
-        "Web form: https://gandi.net/en/my-rights"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",

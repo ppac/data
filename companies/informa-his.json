@@ -14,6 +14,7 @@
     "phone": "+49 611 880870 88",
     "fax": "+49 611 880870 86",
     "email": "office@informa-his.de",
+    "webform": "https://www.informa-his.de/selbstauskunft/selbstauskunft/online-formular",
     "web": "https://www.informa-his.de",
     "sources": [
         "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
@@ -41,8 +42,7 @@
     ],
     "request-language": "de",
     "comments": [
-        "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können.",
-        "Webformular für Anfragen: https://www.informa-his.de/selbstauskunft/selbstauskunft/online-formular"
+        "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
     ],
     "needs-id-document": false,
     "quality": "verified"
